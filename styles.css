@@ -17,20 +17,12 @@
 html{
 	
 }
-body, html {
-  height: 100%;
-}
-.bg {
-  /* The image used */
-  background-image: url('joe1.png')
-
-  /* Full height */
-  height: 100%;
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+body {
+ 
+  background:url('joe.jpg') no-repeat center center;
+  min-height: 600px;
+  padding: 200px 0 0;
+  font:14px/1.3 'Segoe UI',Arial, sans-serif;
 }
 
 body h2{
