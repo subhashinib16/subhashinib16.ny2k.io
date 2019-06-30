@@ -300,7 +300,7 @@ footer h2{
 	margin-left: -400px;
 	padding: 13px 0 0;
 	position: absolute;
-	width: 540px;
+	width: 800px;
 }
 
 footer h2 i{
@@ -310,7 +310,7 @@ footer h2 i{
 
 footer a.tzine,a.tzine:visited{
 	color: #999999;
-	font-size: 12px;
+	font-size: 19px;
 	left: 50%;
 	margin: 16px 0 0 110px;
 	position: absolute;
